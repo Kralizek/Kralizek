@@ -11,6 +11,8 @@ I also enjoy contributing to the .NET community. Over the years I have started m
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/renatogolia/), [Twitter](https://twitter.com/Kralizek) and, obviously, [here on GitHub](https://github.com/Kralizek).
 
+My resume is available [here](https://github.com/Kralizek/Kralizek/blob/master/files/cv/Curriculum%20-%202020-09-01.pdf).
+
 ## Open source projects I work with
 
 Started by me:
