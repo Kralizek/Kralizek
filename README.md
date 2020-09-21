@@ -24,9 +24,11 @@ It offers an abstraction layer over the actual messaging technology allowing the
 I contribute to:
 - [AutoFixture](https://github.com/AutoFixture/AutoFixture/) makes it easier for developers to do Test-Driven Development by automating non-relevant Test Fixture Setup, allowing the Test Developer to focus on the essentials of each test case.
 
-Here are my GitHub stats
+Here are my GitHub stats:
 
 ![Kralizek's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Kralizek&count_private=true&show_icons=true&hide_title=true)
+
+[My other public repositories](https://github.com/Kralizek?tab=repositories&q=&type=public&language=)
 
 ## Programming books I loved
 - **[The Art of Unit Testing](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/)** by Roy Osherove
