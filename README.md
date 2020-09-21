@@ -9,7 +9,7 @@ When I'm not busy with powerpoints and spreadsheets, I like to help my team with
 In my spare time, I like board- and videogames, photography, and fantasy and sci-fi books on all media.
 I also enjoy contributing to the .NET community. Over the years I have started my own projects and contributed to others'.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/renatogolia/), [Twitter](https://twitter.com/Kralizek) and, obviously, [here on GitHub](https://github.com/Kralizek).
+You can find me on [LinkedIn](https://www.linkedin.com/in/renatogolia/) and [Twitter](https://twitter.com/Kralizek).
 
 My resume is available [here](https://github.com/Kralizek/Kralizek/blob/master/files/cv/Curriculum%20-%202020-09-01.pdf).
 
