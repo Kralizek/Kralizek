@@ -34,6 +34,7 @@ Here are my GitHub stats:
 - **[The Art of Unit Testing](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/)** by Roy Osherove
 - **[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)** by Robert C. Martin
 - **[Dependency Injection in .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/)** by Mark Seemann
+- **[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)** by Eric Evans
 - **Programming ASP.NET MVC** by Dino Esposito
 - **[Programming Entity Framework](https://www.amazon.com/Programming-Entity-Framework-Building-Centric-dp-0596807260/dp/0596807260/)** by Julia Lerman
 - **[Programming WCF Services](https://www.amazon.com/Programming-WCF-Services-Maintainable-Service-Oriented/dp/1491944838/)** by Juval Löwy
@@ -45,4 +46,5 @@ Here are my GitHub stats:
 - **[Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/)** by Steve Freeman and Nat Pryce
 - **[Introducing Machine Learning](https://www.amazon.com/Introducing-Machine-Learning-Developer-Reference-dp-0135565669/dp/0135565669/)** by Dino Esposito and Francesco Esposito
 - **[The Mikado Method](https://www.amazon.com/Mikado-Method-Ola-Ellnestam/dp/1617291218/)** by Ola Ellnestam and Daniel Brolund
+- **[Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design-ebook/dp/B00XLYUA0W/)** by Scott Millett and Nick Tune
 - **[Pro ASP.NET Core 3](https://www.amazon.com/Pro-ASP-NET-Core-Cloud-Ready-Applications/dp/1484254392/)** by Adam Freeman
