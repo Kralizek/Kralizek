@@ -35,8 +35,8 @@ Here are my GitHub stats:
 - **[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)** by Robert C. Martin
 - **[Dependency Injection in .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/)** by Mark Seemann
 - **[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)** by Eric Evans
-- **[Programming Microsoft ASP.NET MVC](https://www.amazon.com/Programming-Microsoft-ASP-NET-Developer-Reference/dp/0735680949/)** by Dino Esposito
 - **[Programming Entity Framework](https://www.amazon.com/Programming-Entity-Framework-Building-Centric-dp-0596807260/dp/0596807260/)** by Julia Lerman
+- **[Programming Microsoft ASP.NET MVC](https://www.amazon.com/Programming-Microsoft-ASP-NET-Developer-Reference/dp/0735680949/)** by Dino Esposito
 - **[Programming WCF Services](https://www.amazon.com/Programming-WCF-Services-Maintainable-Service-Oriented/dp/1491944838/)** by Juval Löwy
 - **[Righting Software](https://www.amazon.com/Righting-Software-Juval-L%C3%B6wy/dp/0136524036/)** by Juval Löwy
 - **[Writing High-Performance .NET Code](https://www.amazon.com/Writing-High-Performance-NET-Code-Watson-ebook/dp/B07BF68842/)** by Ben Watson
