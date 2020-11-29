@@ -3,15 +3,15 @@ My name is Renato and I was born in Naples, Italy but I've been living in Stockh
 
 I have been working with .NET since its first versions and I have been working with AWS tools since 2010.
 
-Currently, I'm the CTO of [Educations Media Group (EMG)](https://educationsmediagroup.com).
-When I'm not busy with powerpoints and spreadsheets, I like to help my team with utility libraries, templates, and whatever can make their work more efficient.
+Currently I am working at my own company, [Insight Architectures](https://www.insightarchitectures.com).
+
+I founded Insight Architectures to provide other companies consulting and freelancing services based on the things I learned in my 12 years at [Educations Media Group](https://educationsmediagroup.com), where I worked as Software Architect and CTO.
 
 In my spare time, I like board- and videogames, photography, and fantasy and sci-fi books on all media.
-I also enjoy contributing to the .NET community. Over the years I have started my own projects and contributed to others'.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/renatogolia/) and [Twitter](https://twitter.com/Kralizek).
+I also enjoy contributing to the .NET community. Over the years I have started my own projects and contributed to others'. My projects are mostly tools for other developers to make their work more efficient.
 
-My resume is available [here](https://renatogolia.com/assets/files/resume-renato-golia.pdf).
+You can find more about me on my personal web site: [https://renatogolia.com](https://renatogolia.com).
 
 ## Open source projects I work with
 
@@ -29,22 +29,3 @@ Here are my GitHub stats:
 ![Kralizek's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Kralizek&count_private=true&show_icons=true&hide_title=true)
 
 [My other public repositories](https://github.com/Kralizek?tab=repositories&q=&type=public&language=)
-
-## Programming books I loved
-- **[The Art of Unit Testing](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890/)** by Roy Osherove
-- **[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)** by Robert C. Martin
-- **[Dependency Injection in .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/)** by Mark Seemann
-- **[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)** by Eric Evans
-- **[Programming Entity Framework](https://www.amazon.com/Programming-Entity-Framework-Building-Centric-dp-0596807260/dp/0596807260/)** by Julia Lerman
-- **[Programming Microsoft ASP.NET MVC](https://www.amazon.com/Programming-Microsoft-ASP-NET-Developer-Reference/dp/0735680949/)** by Dino Esposito
-- **[Programming WCF Services](https://www.amazon.com/Programming-WCF-Services-Maintainable-Service-Oriented/dp/1491944838/)** by Juval Löwy
-- **[Righting Software](https://www.amazon.com/Righting-Software-Juval-L%C3%B6wy/dp/0136524036/)** by Juval Löwy
-- **[Writing High-Performance .NET Code](https://www.amazon.com/Writing-High-Performance-NET-Code-Watson-ebook/dp/B07BF68842/)** by Ben Watson
-
-## Programming books I will read someday
-- **[Get Programming with F#](https://www.amazon.com/Get-Programming-guide-NET-developers/dp/1617293997/)** by Isaac Abraham
-- **[Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/)** by Steve Freeman and Nat Pryce
-- **[Introducing Machine Learning](https://www.amazon.com/Introducing-Machine-Learning-Developer-Reference-dp-0135565669/dp/0135565669/)** by Dino Esposito and Francesco Esposito
-- **[The Mikado Method](https://www.amazon.com/Mikado-Method-Ola-Ellnestam/dp/1617291218/)** by Ola Ellnestam and Daniel Brolund
-- **[Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design-ebook/dp/B00XLYUA0W/)** by Scott Millett and Nick Tune
-- **[Pro ASP.NET Core 3](https://www.amazon.com/Pro-ASP-NET-Core-Cloud-Ready-Applications/dp/1484254392/)** by Adam Freeman
