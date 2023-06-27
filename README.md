@@ -5,7 +5,7 @@ I have been working with .NET since its first versions and I have been working w
 
 Currently I am working at my own company, [Insight Architectures](https://www.insightarchitectures.com).
 
-I founded Insight Architectures to provide other companies consulting and freelancing services based on the things I learned in my 12 years at [Educations Media Group](https://educationsmediagroup.com), where I worked as Software Architect and CTO.
+I founded Insight Architectures to provide other companies consulting and freelancing services based on the things I learned in my years as Software Architect and CTO.
 
 In my spare time, I like board- and videogames, photography, and fantasy and sci-fi books on all media.
 
