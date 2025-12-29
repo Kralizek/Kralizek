@@ -1,31 +1,14 @@
 # Hi 🖐
-My name is Renato and I was born in Naples, Italy but I've been living in Stockholm, Sweden since 2008.
 
-I have been working with .NET since its first versions and I have been working with AWS tools since 2010.
+My name is Renato and I was born in Naples, Italy, but I’ve been living in Stockholm, Sweden since 2008.
 
-Currently I am working at my own company, [Insight Architectures](https://www.insightarchitectures.com).
+I’ve been working with .NET since its early days and with AWS since around 2010. Since 2023, I’ve also been working actively with Azure, mainly in large-scale cloud and platform-oriented systems. My focus is mostly on backend, cloud architecture, and distributed systems.
 
-I founded Insight Architectures to provide other companies consulting and freelancing services based on the things I learned in my years as Software Architect and CTO.
+I currently work as a **Software Architect** in the **Cloud Services Team at Tobii Dynavox**, where I help design and evolve large-scale cloud platforms.
 
-In my spare time, I like board- and videogames, photography, and fantasy and sci-fi books on all media.
+Alongside my full-time role, **Insight Architectures** is still active and provides sporadic consulting services based on my experience as a Software Architect and CTO. I’m also one of the founders of **EduConvert**, and I’m currently working on **Xilo**, a product focused on helping individuals and teams better understand how they spend their time.
 
-I also enjoy contributing to the .NET community. Over the years I have started my own projects and contributed to others'. My projects are mostly tools for other developers to make their work more efficient.
+In my spare time, I enjoy board and video games, photography, and fantasy and sci-fi books across all media.
 
-You can find more about me on my personal web site: [https://renatogolia.com](https://renatogolia.com).
-
-## Open source projects I work with
-
-Started by me:
-- [Nybus](https://github.com/Nybus-project/) is an application framework that allows you to build message-based applications in .NET Core and .NET Framework.
-It offers an abstraction layer over the actual messaging technology allowing the support of multiple engines.
-- [AWS Lambda C# templates](https://github.com/Kralizek/AWSLambdaSharpTemplate) are a series of templates that help developers creating AWS Lambda functions using C# without giving up on SOLID principles.
-- [.NET Configuration Extensions for AWS SecretsManager](https://github.com/Kralizek/AWSSecretsManagerConfigurationExtensions) is a provider for Microsoft.Extensions.Configuration that retrieves secrets stored in AWS Secrets Manager.
-
-I contribute to:
-- [AutoFixture](https://github.com/AutoFixture/AutoFixture/) makes it easier for developers to do Test-Driven Development by automating non-relevant Test Fixture Setup, allowing the Test Developer to focus on the essentials of each test case.
-
-Here are my GitHub stats:
-
-![Kralizek's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Kralizek&count_private=true&show_icons=true&hide_title=true)
-
-[My other public repositories](https://github.com/Kralizek?tab=repositories&q=&type=public&language=)
+I occasionally write technical articles on my personal website, mostly about software development, architecture, and cloud-related topics:  
+👉 [https://renatogolia.com](https://renatogolia.com)
